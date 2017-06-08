@@ -9,6 +9,8 @@ See more details about this demo in [Chinese](http://www.jianshu.com/p/ed8e76081
 
 #### References
 [Getting a Core ML Model](https://developer.apple.com/documentation/coreml/getting_a_core_ml_model)
+
 [Integrating a Core ML Model into Your App](https://developer.apple.com/documentation/coreml/integrating_a_core_ml_model_into_your_app)
+
 [How to convert UIImage to CVPixelBufferRef[Chinese]](http://blog.csdn.net/lvmaker/article/details/51508121)
 
