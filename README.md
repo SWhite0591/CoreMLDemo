@@ -3,6 +3,7 @@ A demo for iOS machine learning framework : Core ML
 
 
 Only Xcode9 and above are supported.
+
 Model **Places205-GoogLeNet** comes from [Apple Machine Learning](https://developer.apple.com/machine-learning/).
 
 See more details about this demo in [Chinese](http://www.jianshu.com/p/ed8e76081cad).
